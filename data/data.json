@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1683458896763",
+    "nama": "Buku Tulis",
+    "harga": 3500,
+    "kuantitas": 10
+  },
+  {
+    "id": "1683463813922",
+    "nama": "Buku Gambar",
+    "harga": 4000,
+    "kuantitas": 20
+  }
+]
